@@ -15,4 +15,9 @@ Cada jogo possui um repositório no GitHub com informações detalhadas sobre o 
 - [Ache o Anel](https://github.com/abelarduu/ache-o-anel)  
 - [Magia](https://github.com/abelarduu/magia)
 
+### Resultado
+<img src="img/Pong.gif" type="image/gif" alt="Gameplay do Pong" width=370px>
+<img src="img/Breakout.gif" type="image/gif" alt="Gameplay do Breakout" width=370px>
+<img src="img/Ache-O-Anel.gif" type="image/gif" alt="Gameplay do Ache O Anel" width=370px>
+<img src="img/Magia.gif" type="image/gif" alt="Gameplay do Magia" width=370px>
 </div>
