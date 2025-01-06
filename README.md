@@ -10,10 +10,10 @@ O site foi feito com muita dedicação e criatividade, englobando desde a progra
 ## Jogos incluídos
 
 Cada jogo possui um repositório no GitHub com informações detalhadas sobre o projeto. Confira os links abaixo para saber mais:  
-- [Pong](https://github.com/abelarduu/pong)  
-- [Breakout](https://github.com/abelarduu/breakout)  
-- [Ache o Anel](https://github.com/abelarduu/ache-o-anel)  
-- [Magia](https://github.com/abelarduu/magia)
+- Pong ( [Link do repositorio](https://github.com/abelarduu/pong) )  
+- Breakout( [Link do repositorio](https://github.com/abelarduu/breakout) ) 
+- Ache o Anel( [Link do repositorio](https://github.com/abelarduu/ache-o-anel) )
+- Magia( [Link do repositorio](https://github.com/abelarduu/magia) )
 
 ### Resultado
 <img src="img/Pong.gif" type="image/gif" alt="Gameplay do Pong" width=370px>
