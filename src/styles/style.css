@@ -3,14 +3,31 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-nav img {
-    width: 25rem;
+@media (max-width: 375px) {
+    #logo {
+        width: 14em;
+        margin-bottom: 1rem;
+    }
 }
+
+@media (max-width: 414px) {
+    #logo {
+        width: 14em;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (min-width: 425px) {
+    #logo {
+        width: 18em;
+        margin-bottom: 1rem;
+    }
+}
+
 header, nav {
-    padding: 30px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     width: 100%;
 }
@@ -21,8 +38,8 @@ header {
     font-size: 20px;
 }
 
-header input{
-    width: 20rem;
+#input{
+    width: 20em;
     height: 35px;
     border: none;
     border-radius: 10px;
@@ -30,7 +47,7 @@ header input{
 }
 
 main {
-    margin: 5rem 3rem;
+    padding: 5rem 3rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -59,8 +76,9 @@ main {
 
 footer {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
     background: linear-gradient(#a9c1ff,#395c98);
     height: 100px;
 }
