@@ -73,7 +73,8 @@ main {
 footer {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     background: linear-gradient(#a9c1ff,#395c98);
     height: 100px;
