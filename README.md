@@ -1,6 +1,6 @@
 <div align="center">
  
-# Bit Pixel Games
+<img src="src/images/logo.png" type="image/png" alt="Logo">
 
 ### Sobre o projeto
 Bem-vindo ao **Bit Pixel Games**! Este é um site de jogos que funciona como meu portfólio, reunindo todos os jogos que desenvolvi utilizando a game engine **Pyxel** em **Python**. Aqui, você pode explorar jogos com design e jogabilidade nostálgicos, criados inteiramente por mim, desde o conceito até os detalhes finais de programação.
