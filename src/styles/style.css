@@ -43,10 +43,38 @@ header {
 }
 
 main {
-    padding: 5rem 3rem;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-around;
+    padding: 2rem;
+}
+
+@media (min-width: 425px){
+    #game-session{
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (min-width: 768px){
+    #game-session{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 1024px){
+    #game-session{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1074px){
+    #game-session{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+#game-session{
+    display: grid;
+    justify-content: flex-start;
     gap: 3rem;
 }
 
@@ -55,7 +83,6 @@ main {
     height: 15rem;
     border-radius: 20px;
     box-shadow: 0 0 5px 5px rgba(16, 24, 66, 0.5);
-    background-color: #d38441;
     transition: all ease 300ms;
 }
 
